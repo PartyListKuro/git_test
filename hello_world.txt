@@ -1,1 +1,2 @@
 Adding some text
+Adding a second text so I could confirm that I understood git
